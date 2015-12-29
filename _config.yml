@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8940902
+  brandStrength: 1
+  lightness: 0.7278144
+  brandColors:
+    - '#171516'
+    - '#E1D0BC'
+    - '#C7996E'
+    - '#422F28'
+    - '#FFFFFF'
+  rhythmicContrast: 0.4080192
+typography_spectrum: 0.2204301
+name: GigiPedraza
