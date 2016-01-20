@@ -1,14 +1,29 @@
+name: GigiPedraza
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.2204301
+title: Gigi Pedraza
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8940902
-  brandStrength: 1
-  lightness: 0.7278144
   brandColors:
     - '#171516'
     - '#E1D0BC'
     - '#C7996E'
     - '#422F28'
     - '#FFFFFF'
+  brandStrength: 1
+  lightness: 0.7278144
+  saturation: 0.8940902
   rhythmicContrast: 0.4080192
-typography_spectrum: 0.2204301
-name: GigiPedraza
+purpose: []
